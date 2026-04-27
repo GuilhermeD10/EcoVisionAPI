@@ -110,7 +110,7 @@ Dor: dificuldade em obter análises consolidadas e confiáveis a partir de dados
 ---
 
 ## 📊 Slides da Apresentação
-- 📄 **Arquivo:**[Eco Vision O Eco da Inovação.pdf](https://github.com/user-attachments/files/27109231/Eco.Vision.O.Eco.da.Inovacao.pdf)
+- 📄 **Arquivo:**
 - Apresenta os objetivos, metodologia, desenvolvimento e resultados do projeto.
 
 ---
