@@ -8,7 +8,7 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
 ![Dados](https://img.shields.io/badge/Dados-RAIS-lightgrey)
 
-## 📊 Mapeamento do Ecossistema Industrial e de Serviços
+## 📊 Mapeamento do Ecossistema Industrial e de Serviços - Engenharia de produção 
 
 # Aprendizado por Projeto Integrado (API) - Mapeamento do Ecossistema Industrial e de Serviços da Região de São José dos Campos
 
