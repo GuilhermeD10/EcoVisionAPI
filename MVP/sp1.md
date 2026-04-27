@@ -101,7 +101,6 @@ Dor: dificuldade em obter análises consolidadas e confiáveis a partir de dados
 
 ## 📊 Dashboard Power BI
 - 🌐 **Acesse:** https://app.powerbi.com/view?r=eyJrIjoiYjYzNDNlN2EtMzIwYS00ODE0LThlNTAtZDBjYjI4ZGE3NmI0IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9&embedImagePlaceholder=true
-
 ---
 
 ## 📁 Base de Dados Tratada 
@@ -110,7 +109,7 @@ Dor: dificuldade em obter análises consolidadas e confiáveis a partir de dados
 ---
 
 ## 📊 Slides da Apresentação
-- 📄 **Arquivo:**
+- 📄 **Arquivo:**[Eco Vision O Eco da Inovação_20260426_233509_0000.pdf](https://github.com/user-attachments/files/27110154/Eco.Vision.O.Eco.da.Inovacao_20260426_233509_0000.pdf)
 - Apresenta os objetivos, metodologia, desenvolvimento e resultados do projeto.
 
 ---
