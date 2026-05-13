@@ -68,8 +68,7 @@ Dor: dificuldade em obter análises consolidadas e confiáveis a partir de dados
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Coleta da base RAIS; entendimento da estrutura dos dados; tratamento em Python (pandas); classificação dos setores econômicos; integração com GitHub e conexão inicial com Power BI; visualização inicial dos setores industriais                       | Concluído|
-| 02     | Criação de painéis analíticos no Power BI; desenvolvimento de gráfico de distribuição geográfica; definição de indicadores econômicos e produtivos; início da análise visual dos dados                          | Em andamento |
+| 01     | Coleta da base RAIS; entendimento da estrutura dos dados; tratamento em Python (pandas); classificação dos setores econômicos; integração com GitHub e conexão inicial com Power BI; visualização inicial dos setores industriais                       | Concluído|                           
 
 
 
