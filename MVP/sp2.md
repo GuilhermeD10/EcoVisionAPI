@@ -27,6 +27,7 @@
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US7 | Como tomador de decisões de políticas públicas, quero criar painéis analíticos no Power BI para interpretar os dados. | Alta | ? |
 | US8 | Como tomador de decisões de políticas públicas, quero um gráfico para visualização da distribuição geográfica dos setores produtivos na região. | Alta | ? |
+| US9 | Como tomador de decisões de políticas públicas, quero visualizar indicadores econômicos e produtivos importantes. | Alta | ? |
 
 ---
 
