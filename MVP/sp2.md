@@ -1,10 +1,23 @@
 # 📌 MVP - Mapeamento do Ecossistema Industrial e de Serviços da Região de São José dos Campos
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+>  O propósito deste MVP é validar a eficácia da transformação de dados industriais brutos em inteligência de mercado ativa
+para a região de São José dos Campos, provando que a consolidação de uma base de dados expandida dentro de um dashboard dinâmico e interativo no Power BI (foco da Sprint 02) 
+é capaz de reduzir drasticamente o tempo de diagnóstico macroeconômico em comparação com relatórios estáticos tradicionais. Ao centralizar indicadores socioeconômicos e 
+mercadológicos de cadeias produtivas complexas — como os setores aeroespacial, de defesa, automotivo e tecnológico — e disponibilizar recursos visuais avançados como filtros 
+cruzados e análises comparativas de faturamento e empregabilidade por distrito, a solução estabelece uma "única fonte da verdade" para o ecossistema local, permitindo que gestores públicos 
+identifiquem polos de investimento e gargalos estruturais com agilidade, mitigando riscos e custos antes do desenvolvimento de uma plataforma em larga escala.
+
+- Qual problema resolve? A pulverização de dados socioeconômicos e a ausência de uma plataforma
+centralizada e de alta fidelidade visual que permita o mapeamento estratégico e analítico do ecossistema
+industrial na região de São José dos Campos.
+- Qual hipótese será validada? Se a integração de bases de dados robustas agregadas a um dashboard
+altamente dinâmico e interativo no Power BI acelera a identificação de gargalos de mercado,
+polos de desenvolvimento e demandas de infraestrutura por parte dos tomadores de decisão públicos e
+privados.
+- Qual valor será entregue ao usuário final? Disponibilização de um ecossistema de inteligência
+empresarial unificado, proporcionando análises comparativas avançadas, cruzamento geográfico de
+indicadores e relatórios gerenciais dinâmicos sobre as cadeias produtivas locais.
 
 ---
 
