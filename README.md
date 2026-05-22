@@ -76,8 +76,8 @@ Este projeto tem como objetivo mapear o ecossistema Industrial e de Serviços da
 | 7 | Alta | Como tomador de decisões de políticas públicas, quero criar painéis analíticos no Power BI para interpretar os dados. | 04/mai | 2 |
 | 8 | Alta | Como tomador de decisões de políticas públicas, quero um gráfico para visualização da distribuição geográfica dos setores produtivos na região. | 04/mai | 2 |
 | 9 | Alta | Como tomador de decisões de políticas públicas, quero visualizar indicadores econômicos e produtivos importantes. | 15/mai | 2 |
-| 10 | Alta | Como tomador de decisões de políticas públicas quero visualizar indicadores de crescimento ou decrescimento durante os anos dos setores predominantes na cidade. | 22/mai | 1 |
-| 11 | Média | Como tomador de decisões de políticas públicas quero definir modelo, cor e layout | 05/jun | 1 |
+| 10 | Alta | Como tomador de decisões de políticas públicas quero visualizar indicadores de crescimento ou decrescimento durante os anos dos setores predominantes na cidade. | 22/mai | 2 |
+| 11 | Média | Como tomador de decisões de políticas públicas quero definir modelo, cor e layout | 05/jun | 2 |
 | 12 | Alta | Como tomador de decisões de políticas públicas, quero visualizar graficamente a participação de diferentes setores na economia regional. | 25/mai | 3 |
 | 13 | Alta | Como tomador de decisões de políticas públicas, quero comparar diferentes segmentos industriais e de serviços para entender sua influência na economia. | 25/mai | 3 |
 | 14 | Média | Como tomador de decisões de políticas públicas, quero definir modelo, cor e layout. | 05/jun | 3 |
