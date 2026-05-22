@@ -30,15 +30,27 @@ indicadores e relatórios gerenciais dinâmicos sobre as cadeias produtivas loca
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Persona 1:** Prefeitura de São José dos Campos (Gestão Pública)
+Representa órgãos públicos responsáveis pelo planejamento e desenvolvimento econômico da região.
+
+Necessidade: acesso a dados estruturados e confiáveis sobre o mercado de trabalho e setores produtivos.
+
+Dor: dificuldade em interpretar grandes volumes de dados brutos e ausência de informações organizadas para embasar decisões estratégicas.
+
+- **Persona 2:** Prof. Me. Marcus Vinicius do Nascimento  (Cliente / Tomador de Decisão)
+Perfil de usuário interessado em compreender o cenário econômico local.
+
+Necessidade: visualização clara dos principais setores econômicos e seus indicadores.
+
+Dor: dificuldade em obter análises consolidadas e confiáveis a partir de dados dispersos e pouco estruturados.
+
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US7 | Como tomador de decisões de políticas públicas, quero criar painéis analíticos no Power BI para interpretar os dados. | Alta | 12horas |
+| US7 | Como tomador de decisões de políticas públicas, quero criar painéis analíticos no Power BI para interpretar os dados. | Alta | 12 horas |
 | US8 | Como tomador de decisões de políticas públicas, quero um gráfico para visualização da distribuição geográfica dos setores produtivos na região. | Alta | 8 horas |
 | US9 | Como tomador de decisões de políticas públicas, quero visualizar indicadores econômicos e produtivos importantes. | Alta | 8 horas |
 | US10 | Como tomador de decisões de políticas públicas quero visualizar indicadores de crescimento ou decrescimento durante os anos dos setores predominantes na cidade. | Alta | 8 horas |
