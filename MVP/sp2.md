@@ -38,9 +38,11 @@ indicadores e relatórios gerenciais dinâmicos sobre as cadeias produtivas loca
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US7 | Como tomador de decisões de políticas públicas, quero criar painéis analíticos no Power BI para interpretar os dados. | Alta | ? |
-| US8 | Como tomador de decisões de políticas públicas, quero um gráfico para visualização da distribuição geográfica dos setores produtivos na região. | Alta | ? |
-| US9 | Como tomador de decisões de políticas públicas, quero visualizar indicadores econômicos e produtivos importantes. | Alta | ? |
+| US7 | Como tomador de decisões de políticas públicas, quero criar painéis analíticos no Power BI para interpretar os dados. | Alta | 12horas |
+| US8 | Como tomador de decisões de políticas públicas, quero um gráfico para visualização da distribuição geográfica dos setores produtivos na região. | Alta | 8 horas |
+| US9 | Como tomador de decisões de políticas públicas, quero visualizar indicadores econômicos e produtivos importantes. | Alta | 8 horas |
+| US10 | Como tomador de decisões de políticas públicas quero visualizar indicadores de crescimento ou decrescimento durante os anos dos setores predominantes na cidade. | Alta | 8 horas |
+| US11 | Como tomador de decisões de políticas públicas quero definir modelo, cor e layout | Média | 4 horas |
 
 ---
 
