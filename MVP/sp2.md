@@ -22,10 +22,22 @@ indicadores e relatórios gerenciais dinâmicos sobre as cadeias produtivas loca
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+> O MVP consiste em um Dashboard Dinâmico e Interativo no Power BI alimentado por uma base de dados unificada (via processos de ETL/Tratamento de Dados), focada no ecossistema industrial e de serviços da RMVale (Região Metropolitana do Vale do Paraíba), com ênfase em São José dos Campos. A solução substitui relatórios estáticos em PDF ou planilhas isoladas por uma interface visual única.
+- Funcionalidades principais incluídas:
+ Painel Macroeconômico Centralizado: Visualização de faturamento estimado, volume de empregabilidade e saldo de contratações (CAGED/RAIS/IBGE adaptados).
+ Filtros Cruzados Dinâmicos: Segmentação instantânea por Ano, Setor (Aeroespacial, Defesa, Automotivo, Tecnologia e Serviços) e Distrito/Região da cidade.
+ Análise de Tendência Temporal: Gráficos de linha históricos mostrando a evolução, crescimento ou decrescimento dos setores ao longo dos anos.
+ Mapeamento Geográfico Simplificado: Visualização da distribuição espacial das indústrias e polos tecnológicos na região.
+
+- Limitações conhecidas:
+ Atualização de Dados Não-Real-Time: Os dados são atualizados de forma programada (ex: mensal ou trimestral), dependendo da liberação das fontes oficiais.
+ Foco Geográfico Restrito: Nesta fase, o detalhamento analítico se concentra em São José dos Campos, trazendo dados das cidades vizinhas apenas como contexto macro.
+ Ausência de Modelos Preditivos Avançados: O MVP foca em análise descritiva e diagnóstica (o que aconteceu/o que está acontecendo), sem projeções de IA ou Machine Learning nesta entrega.
+
+- Escopo reduzido (somente o essencial para validar a ideia):
+ Apenas as 4 principais verticais industriais da região.
+ Histórico limitado aos últimos 3 ou 5 anos.
+ Utilização de ferramentas nativas do Power BI (sem desenvolvimento de software personalizado/Custom Visuals complexos).
 
 ---
 
