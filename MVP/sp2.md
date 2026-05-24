@@ -95,9 +95,8 @@ Dor: dificuldade em obter análises consolidadas e confiáveis a partir de dados
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+ - Ciclo de Feedback: Reunião de alinhamento com o Prof. Me. Marcus Vinicius para validação das dores resolvidas e ajustes na densidade de informações por tela.
+ - Ajustes de Usabilidade: Otimização do design para acessibilidade (contraste de cores, Tooltips explicativas em visuais complexos).
 
 ---
 
