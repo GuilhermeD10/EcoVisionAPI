@@ -94,7 +94,7 @@ https://colab.research.google.com/drive/1lq5vQ6udxyRsS2qs2T_-syoaOEGpHb-1?usp=sh
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 27/04/2026 | finalizado | [MVP](MVP/sp1.md)  |
-| 02                | 18/05/2026 | em andamento  | [MVP](MVP/sp2.md)  |
+| 02                | 25/05/2026 | finalizado | [MVP](MVP/sp2.md)  |
 | 03                | 08/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |
 
