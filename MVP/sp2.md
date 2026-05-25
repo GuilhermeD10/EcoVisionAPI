@@ -80,7 +80,6 @@ Dor: dificuldade em obter análises consolidadas e confiáveis a partir de dados
 
 ## 📊 Critérios de Aceitação
  - Ação Principal: O usuário deve ser capaz de identificar qual setor gerou mais empregos em um determinado ano e em qual região da cidade ele está concentrado em menos de 3 cliques.
- - Registro de Evento: O sistema (via Power BI Service) deve registrar o histórico de acessos dos usuários de teste e o tempo de permanência em cada aba do relatório.
  - Métricas Técnicas Coletadas: * Tempo de carregamento dos visuais: Inferior a 3 segundos ao alternar filtros.
  - Fidelidade dos Dados: Divergência zero (0\%) entre a base de dados tratada na Sprint 01 e os visuais apresentados no Power BI.
 
