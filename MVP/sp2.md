@@ -4,7 +4,7 @@
 >  O propósito deste MVP é validar a eficácia da transformação de dados industriais brutos em inteligência de mercado ativa
 para a região de São José dos Campos, provando que a consolidação de uma base de dados expandida dentro de um dashboard dinâmico e interativo no Power BI (foco da Sprint 02) 
 é capaz de reduzir drasticamente o tempo de diagnóstico macroeconômico em comparação com relatórios estáticos tradicionais. Ao centralizar indicadores socioeconômicos e 
-mercadológicos de cadeias produtivas complexas — como os setores aeroespacial, de defesa, automotivo e tecnológico — e disponibilizar recursos visuais avançados como filtros 
+mercadológicos de cadeias produtivas complexas — como os setores Indústria, Ensino, Saúde e Serviços — e disponibilizar recursos visuais avançados como filtros 
 cruzados e análises comparativas de faturamento e empregabilidade por distrito, a solução estabelece uma "única fonte da verdade" para o ecossistema local, permitindo que gestores públicos 
 identifiquem polos de investimento e gargalos estruturais com agilidade, mitigando riscos e custos antes do desenvolvimento de uma plataforma em larga escala.
 
