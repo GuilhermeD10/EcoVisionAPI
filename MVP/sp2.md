@@ -73,8 +73,7 @@ Dor: dificuldade em obter análises consolidadas e confiáveis a partir de dados
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 02     |  Criação de painéis analíticos no Power BI; desenvolvimento de gráfico de distribuição geográfica; definição de indicadores econômicos e produtivos; início da análise visual dos dados                       | Concluído |
 
 ---
 
