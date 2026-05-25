@@ -19,6 +19,7 @@
 * [Backlog do produto](#Product-Backlog)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Tratamento e Filtragem de Dados (Python – Google Colab)](#Tratamento-e-Filtragem-de-Dados-(Python-–-Google-Colab))
+* [Dashboard Power BI](Dashboard-Power-BI)
 * [Registro das Sprints](#Registro-das-Sprints)
 
 
@@ -90,8 +91,10 @@ Dísponivel em:
 https://colab.research.google.com/drive/1lq5vQ6udxyRsS2qs2T_-syoaOEGpHb-1?usp=sharing
 
 # Dashboard Power BI
+Painel interativo com os gráficos e dados econômicos consolidados de São José dos Campos.
 
-  https://app.powerbi.com/view?r=eyJrIjoiMjg2MzIxYmYtZDEyNi00MjQxLTg1NjMtNGNhMzJjMjI0NmU2IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9&embedImagePlaceholder=true
+Dísponivel em:
+https://app.powerbi.com/view?r=eyJrIjoiMjg2MzIxYmYtZDEyNi00MjQxLTg1NjMtNGNhMzJjMjI0NmU2IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9&embedImagePlaceholder=true
 
 # Registro das Sprints
 
