@@ -22,7 +22,7 @@ indicadores e relatórios gerenciais dinâmicos sobre as cadeias produtivas loca
 ---
 
 ## 📝 Descrição da Solução
-> O MVP consiste em um Dashboard Dinâmico e Interativo no Power BI alimentado por uma base de dados unificada (via processos de ETL/Tratamento de Dados), focada no ecossistema industrial e de serviços da RMVale (Região Metropolitana do Vale do Paraíba), com ênfase em São José dos Campos. A solução substitui relatórios estáticos em PDF ou planilhas isoladas por uma interface visual única.
+> O MVP consiste em um Dashboard Dinâmico e Interativo no Power BI alimentado por uma base de dados unificada, focada no ecossistema industrial e de serviços da RMVale (Região Metropolitana do Vale do Paraíba), com ênfase em São José dos Campos. A solução substitui relatórios estáticos em PDF ou planilhas isoladas por uma interface visual única.
 - Funcionalidades principais incluídas:
  Painel Macroeconômico Centralizado: Visualização de faturamento estimado, volume de empregabilidade e saldo de contratações (CAGED/RAIS/IBGE adaptados).
  Filtros Cruzados Dinâmicos: Segmentação instantânea por Ano, Setor (Aeroespacial, Defesa, Automotivo, Tecnologia e Serviços) e Distrito/Região da cidade.
@@ -30,9 +30,9 @@ indicadores e relatórios gerenciais dinâmicos sobre as cadeias produtivas loca
  Mapeamento Geográfico Simplificado: Visualização da distribuição espacial das indústrias e polos tecnológicos na região.
 
 - Limitações conhecidas:
- Atualização de Dados Não-Real-Time: Os dados são atualizados de forma programada (ex: mensal ou trimestral), dependendo da liberação das fontes oficiais.
+ Atualização de Dados Não-Real-Time: Os dados são atualizados de forma programada, dependendo da liberação das fontes oficiais.
  Foco Geográfico Restrito: Nesta fase, o detalhamento analítico se concentra em São José dos Campos, trazendo dados das cidades vizinhas apenas como contexto macro.
- Ausência de Modelos Preditivos Avançados: O MVP foca em análise descritiva e diagnóstica (o que aconteceu/o que está acontecendo), sem projeções de IA ou Machine Learning nesta entrega.
+ Ausência de Modelos Preditivos Avançados: O MVP foca em análise descritiva e diagnóstica (o que aconteceu/o que está acontecendo).
 
 - Escopo reduzido (somente o essencial para validar a ideia):
  Apenas as 4 principais verticais industriais da região.
