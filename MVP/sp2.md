@@ -86,9 +86,7 @@ Dor: dificuldade em obter análises consolidadas e confiáveis a partir de dados
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Resultados dos testes práticos com os usuários, apresentando opiniões altamente positivas sobre a confiabilidade e a agilidade na leitura dos dados.
 
 ---
 
