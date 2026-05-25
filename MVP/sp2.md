@@ -24,8 +24,8 @@ indicadores e relatórios gerenciais dinâmicos sobre as cadeias produtivas loca
 ## 📝 Descrição da Solução
 > O MVP consiste em um Dashboard Dinâmico e Interativo no Power BI alimentado por uma base de dados unificada, focada no ecossistema industrial e de serviços da RMVale (Região Metropolitana do Vale do Paraíba), com ênfase em São José dos Campos. A solução substitui relatórios estáticos em PDF ou planilhas isoladas por uma interface visual única.
 - Funcionalidades principais incluídas:
- Painel Macroeconômico Centralizado: Visualização de faturamento estimado, volume de empregabilidade e saldo de contratações (CAGED/RAIS/IBGE adaptados).
- Filtros Cruzados Dinâmicos: Segmentação instantânea por Ano e Setor (Aeroespacial, Defesa, Automotivo, Tecnologia e Serviços).
+ Painel Macroeconômico Centralizado: Visualização de faturamento estimado, volume de empregabilidade e saldo de contratações.
+ Filtros Cruzados Dinâmicos: Segmentação instantânea por Ano e Setor (Indústria, Ensino, Saúde e Serviços).
  Análise de Tendência Temporal: Gráficos de linha históricos mostrando a evolução, crescimento ou decrescimento dos setores ao longo dos anos.
  Mapeamento Geográfico Simplificado: Visualização da distribuição espacial das indústrias e polos tecnológicos na região.
 
