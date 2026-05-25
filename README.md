@@ -88,7 +88,11 @@ Para viabilizar o mapeamento do ecossistema industrial e de serviços da região
 
 Dísponivel em:
 https://colab.research.google.com/drive/1lq5vQ6udxyRsS2qs2T_-syoaOEGpHb-1?usp=sharing
-  
+
+# Dashboard Power BI
+
+  https://app.powerbi.com/view?r=eyJrIjoiMjg2MzIxYmYtZDEyNi00MjQxLTg1NjMtNGNhMzJjMjI0NmU2IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9&embedImagePlaceholder=true
+
 # Registro das Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
