@@ -102,6 +102,6 @@ https://app.powerbi.com/view?r=eyJrIjoiMjg2MzIxYmYtZDEyNi00MjQxLTg1NjMtNGNhMzJjM
 |-------------------|------------|----------|-----------|
 | 01                | 27/04/2026 | finalizado | [MVP](MVP/sp1.md)  |
 | 02                | 25/05/2026 | finalizado | [MVP](MVP/sp2.md)  |
-| 03                | 08/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
+| 03                | 08/06/2026 | em andamento  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |
 
