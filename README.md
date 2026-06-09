@@ -81,8 +81,7 @@ Este projeto tem como objetivo mapear o ecossistema Industrial e de Serviços da
 | 11 | Média | Como tomador de decisões de políticas públicas quero definir modelo, cor e layout | 05/jun | 2 |
 | 12 | Alta | Como tomador de decisões de políticas públicas, quero visualizar graficamente a participação de diferentes setores na economia regional. | 25/mai | 3 |
 | 13 | Alta | Como tomador de decisões de políticas públicas, quero comparar diferentes segmentos industriais e de serviços para entender sua influência na economia. | 25/mai | 3 |
-| 14 | Média | Como tomador de decisões de políticas públicas, quero definir modelo, cor e layout. | 05/jun | 3 |
-| 15 | Alta | Como tomador de decisões de políticas públicas, quero uma interface clara e intuitiva combinando todos os blocos dentro do dashboard. | 05/jun | 3 |
+| 14 | Alta | Como tomador de decisões de políticas públicas, quero uma interface clara e intuitiva combinando todos os blocos dentro do dashboard. | 05/jun | 3 |
 
 # Tratamento e Filtragem de Dados (Python – Google Colab)
 Para viabilizar o mapeamento do ecossistema industrial e de serviços da região de São José dos Campos, foi desenvolvido um código em Python no ambiente Google Colab com o objetivo de realizar a extração, filtragem e tratamento dos dados provenientes da base RAIS (Relação Anual de Informações Sociais).
